@@ -14,7 +14,7 @@
  
  .wrapper {
      width: 380px;
-     background-color: #ffffff;
+     background-color: #d2991d;
      padding: 30px;
      border-radius: 20px;
      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.05);
@@ -55,15 +55,15 @@
      background: lightblue;
      box-shadow: 0px 6px 12px var(---lightshadow);
  }
-
+ 
  .song-name {
-    font-size: 30px;
+     font-size: 30px;
  }
-
+ 
  .artist {
-    color: rgb(105, 105, 105);
+     color: rgb(105, 105, 105);
  }
-
-.progress-area {
-    margin: 10px;
-}
+ 
+ .progress-area {
+     margin: 10px;
+ }
